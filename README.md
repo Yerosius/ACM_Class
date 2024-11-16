@@ -6,14 +6,16 @@
 # 内容
 [内容安排](./Teaching_Plan.docx)
 # 时间
-9:00-11:00 授课
-11:00-14:00 CF题单
-15:00-16:00 题解
+- 9:00-11:00 授课
+- 11:00-14:00 CF题单
+- 15:00-16:00 题解
 # 听课方式
 Zoom客户端/Web。
 - 客户端：[下载链接](https://zoom.us/zh-cn/download)。下载后无需登录，直接加入会议。
 - Web：直接打开入会链接，反复点击”启动会议“，直到出现“使用浏览器加入”。
 # 题单
 [http://icpc24.contest.codeforces.com](http://icpc24.contest.codeforces.com)
+
 [账密信息](./user_name.xlsx)
+
 填写给出的camp-xxx登录。
