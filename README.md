@@ -1,5 +1,7 @@
-upd:11.16 [授课讲义](./Day1/Number_Theory.pdf) | [题解讲义](./Day1/Solutions.pdf)
-
+# 讲义
+- 11.16 [授课讲义](./Day1/Number_Theory.pdf) | [题解讲义](./Day1/Solutions.pdf)
+# 听课入口
+- 11.16-11.17授课：[URL](https://itmo.zoom.us/j/88270132939?pwd=DOp3z9Guda5nOesYNpBIHYy6aBbbw3.1), 会议号88270132939，会议密码162514
 ---
 # 内容
 [内容安排](./Teaching_Plan.docx)
@@ -11,10 +13,7 @@ upd:11.16 [授课讲义](./Day1/Number_Theory.pdf) | [题解讲义](./Day1/Solut
 Zoom客户端/Web。
 - 客户端：[下载链接](https://zoom.us/zh-cn/download)。下载后无需登录，直接加入会议。
 - Web：直接打开入会链接，反复点击”启动会议“，直到出现“使用浏览器加入”。
-# 听课入口
-> 此标题内容实时更新。
-- 11.16-11.17授课：[URL](https://itmo.zoom.us/j/88270132939?pwd=DOp3z9Guda5nOesYNpBIHYy6aBbbw3.1), 会议号88270132939，会议密码162514
-- 题单
+# 题单
 [http://icpc24.contest.codeforces.com](http://icpc24.contest.codeforces.com)
 [账密信息](./user_name.xlsx)
 填写给出的camp-xxx登录。
