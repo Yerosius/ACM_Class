@@ -1,0 +1,10 @@
+Basics
+- FFT and NTT basics https://cp-algorithms.com/algebra/fft.html
+- FFT hacks http://neerc.ifmo.ru/trains/toulouse/2017/fft2.pdf
+- FWHT the normal way (as we started on the lecture) https://danglingpointer.fun/posts/FWHT#bitwise-or-convolution
+- FWHT the hacked way as multivariate FFT https://codeforces.com/blog/entry/71899
+
+Extra
+- FWHT "for kids" (without mentioning FFT at all) https://codeforces.com/blog/entry/115438
+- Subset convolution the hard way https://codeforces.com/blog/entry/92153 and a bit easier way https://codeforces.com/blog/entry/96003
+- Could be useful on contest (Interpolation) https://cp-algorithms.com/algebra/polynomial.html#interpolation
