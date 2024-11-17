@@ -1,5 +1,6 @@
 # 讲义
 - 11.16 [授课](./Day1/Number_Theory.pdf) | [题解](./Day1/Solutions.pdf)
+- 11.17 [授课](./Day2/)
 # 听课入口
 - 11.16-11.17 [会议](https://itmo.zoom.us/j/88270132939?pwd=DOp3z9Guda5nOesYNpBIHYy6aBbbw3.1), 会议号88270132939，会议密码162514
 ---
