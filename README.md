@@ -3,6 +3,7 @@
 - 11.17:[授课](./Day2/)
 # 听课入口
 - 11.16-11.17:[会议](https://itmo.zoom.us/j/88270132939?pwd=DOp3z9Guda5nOesYNpBIHYy6aBbbw3.1), 会议号88270132939，会议密码162514
+- 11.23-11.24:[会议](https://itmo.zoom.us/j/87810901835?pwd=2UzPYZZ1r2aEKPV5DnaNbmYqCgWjRj.1)，会议号87810901835，会议密码80338
 # 录播
 - 11.16:[授课](https://itmo.zoom.us/rec/share/zOpsduFZIgxADWRb_2FVZyBli1b75hy6KaTJUyDEq4EnICu9IpQcvzJvTj9gmVTi.NHCB0o5G8xZ132dT) | [题解](https://itmo.zoom.us/rec/share/vae3yeuqsCMRiIvVHbt_mSakam8T_ZRXUmclQKE7jLACnTXowgznAy1h4G8oXUDr.9J15WraNo_tZvOgz)
 - 11.17:[题解](https://itmo.zoom.us/rec/share/C3xHTSv5bDH1uY5ZNBK7FqxLMZRWBsI7gHJ3vlJNNLXqqHaNysWj-Lo3KGgnS918.WC0lHu4VXFar9m1k)
