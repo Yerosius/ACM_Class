@@ -7,6 +7,7 @@
 # 录播
 - 11.16:[授课](https://itmo.zoom.us/rec/share/zOpsduFZIgxADWRb_2FVZyBli1b75hy6KaTJUyDEq4EnICu9IpQcvzJvTj9gmVTi.NHCB0o5G8xZ132dT) | [题解](https://itmo.zoom.us/rec/share/vae3yeuqsCMRiIvVHbt_mSakam8T_ZRXUmclQKE7jLACnTXowgznAy1h4G8oXUDr.9J15WraNo_tZvOgz)
 - 11.17:[题解](https://itmo.zoom.us/rec/share/C3xHTSv5bDH1uY5ZNBK7FqxLMZRWBsI7gHJ3vlJNNLXqqHaNysWj-Lo3KGgnS918.WC0lHu4VXFar9m1k)
+- 11.23:[授课](https://itmo.zoom.us/rec/share/GcffBskvuCGtSUbDkE1xAuWlcj_3hdFgA5YJFgskFIW55ZNKdMQ7u3VBBhjeTrc9.jTUGwqkBb-ytO6Fi)
 ---
 # 内容
 [内容安排](./Teaching_Plan.docx)
